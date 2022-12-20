@@ -14,7 +14,7 @@
 
 
 
-## 🫧 Contributors
+## 😎 Contributors
 
 <a href="https://github.com/code-sum/best11/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=code-sum/best11" />
